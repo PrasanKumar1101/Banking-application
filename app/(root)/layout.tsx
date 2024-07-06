@@ -1,5 +1,5 @@
 import MobileNavbar from '@/components/MobileNav';
-import Sidebar from '@/components/SideBar';
+import Sidebar from '@/components/Sidebar';
 import React from 'react'
 export default function RootLayout({
   children,
