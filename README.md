@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💳 Horizon Banking App – Unified Financial Dashboard
 
-## Getting Started
+**Horizon Banking App** is a full-stack finance management web application that enables users to seamlessly manage their finances by aggregating data from multiple bank accounts. The app supports real-time transaction views, inter-user transfers, and a modern, intuitive interface.
 
-First, run the development server:
+Designed with a focus on **security**, **usability**, and **performance**, the app helps users gain complete control and visibility over their financial health.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🏦 **Unified Dashboard**  
+  View balances and transactions from multiple accounts in one place.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 🔄 **Real-time Transactions**  
+  Instantly see new transactions as they occur.
 
-## Learn More
+- 💸 **Secure Money Transfers**  
+  Transfer funds between users securely and efficiently.
 
-To learn more about Next.js, take a look at the following resources:
+- 🔐 **User Authentication**  
+  Login and register securely with token-based authentication.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🌙 **Dark Mode Support**  
+  Switch between light and dark themes for optimal comfort.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- 📱 **Responsive Design**  
+  Works smoothly on mobile, tablet, and desktop devices.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧰 Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+| Area            | Technology                      |
+|------------------|----------------------------------|
+| Frontend         | Next.js 14, React               |
+| Backend          | Node.js, Express.js             |
+| Database         | MongoDB                         |
+| Authentication   | JWT                             |
+| Styling          | Tailwind CSS, shadcn/ui         |
+| State Management | React Context / useState        |
+
+---
+
+
